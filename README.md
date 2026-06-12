@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&lines=d3f4lt;staring+into+the+abyss;until+the+abyss+stares+back" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&lines=staring+into+the+abyss;until+the+abyss+stares+back" alt="Typing SVG" />
 
 <br />
 <br />
@@ -19,7 +19,7 @@
 
 ## stdout
 
-> *"The sea doesn't care about our design patterns. It just flows smoothly f s-sakt."*
+> *"The sea doesn't care about our design patterns. It just flows smoothly f s-skat."*
 
 - **builder** running from the coast of Casablanca
 - **philosophy:** minimal interface, practical execution, zero unnecessary noise.
