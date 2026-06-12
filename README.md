@@ -9,45 +9,46 @@
 
 # d3f4lt
 
-`building useful things, one obsession at a time`
+`shaping clean code by the shore, one obsession at a time`
 
-**web • ai • automation • systems**
+**void • code • automation • noise-reduction**
 
 </div>
 
 ---
 
-## about me
+## stdout
 
-- builder from morocco 🇲🇦
-- into clean UI, automation, terminal tools, and practical AI
-- currently shaping small ideas into polished projects
-- learning fast, shipping faster
+> *"The sea doesn't care about our design patterns. It just flows smoothly f s-sakt."*
+
+- **builder** running from the coast of Casablanca
+- **philosophy:** minimal interface, practical execution, zero unnecessary noise.
+- **current stack state:** processing ideas into terminal tools and automation workflows.
+- **runtime state:** learning fast, shipping faster, drifting smoothly.
 
 ---
 
 ## selected work
 
 ### [focusboard](https://github.com/d3f4lt0/focusboard)
-A calm productivity MVP for tasks, focus sessions, and visible progress.
+A calm productivity MVP to anchor your tasks when the existential dread hits.
 
 ### [neon-cli](https://github.com/d3f4lt0/neon-cli)
-A colorful developer CLI with lightweight AI workflow helpers.
+A terminal helper with lightweight AI, designed to guide you through the digital void.
 
 ### [dotframe](https://github.com/d3f4lt0/dotframe)
-Minimal dotfiles and terminal aesthetic experiments.
+Minimal configuration setups and monochrome environment layout experiments.
 
 ### [noiseless-json](https://github.com/d3f4lt0/noiseless-json)
-Small utility for cleaning and formatting JSON without extra noise.
+A micro-utility to strip out the extra noise from your data streams.
 
 ---
 
-## current interests
+## core dependencies
 
-- developer tools
-- calm product design
-- automation workflows
-- practical AI
+- autonomous developer tools
+- quiet product engineering
+- end-to-end automation loops
 - systems with personality
 
 ---
