@@ -26,8 +26,14 @@
 - **current stack state:** processing ideas into terminal tools and automation workflows.
 - **runtime state:** learning fast, shipping faster, drifting smoothly.
 
--
-[![Discord](https://img.shields.io/badge/Discord-d3f4lt0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1264846495555784736)
+---
+
+## absurd endpoints
+
+> *"One must imagine d3f4lt happy pushing code into the void."*
+
+- [![Discord](https://img.shields.io/badge/Discord-d3f4lt0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1264846495555784736)
+
 ---
 
 ## selected work
