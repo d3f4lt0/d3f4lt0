@@ -30,7 +30,7 @@
 
 ## absurd endpoints
 
-> *"One must imagine d3f4lt happy pushing code into the void."*
+> *"One must imagine d3f4lt happy pushing code into the void"*
 
 - [![Discord](https://img.shields.io/badge/Discord-d3f4lt0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1264846495555784736)
 
