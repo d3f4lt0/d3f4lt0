@@ -38,6 +38,15 @@
 
 ## selected work
 
+### [quantum-stealth-kernel](https://github.com/d3f4lt0/quantum-stealth-kernel)
+> *"some doors don't have handles. you build your own key."*
+
+async dual-layer evasion engine — JA3/TLS cryptographic session impersonation fused with CDP browser fingerprint neutralization. engineered for fortified anti-bot perimeters that assume everyone is a bot. two weeks of structural calibration, one clean abstraction.
+
+`python` `async` `undetected` `fingerprint-spoofing` `tls` `cdp`
+
+---
+
 ### [focusboard](https://github.com/d3f4lt0/focusboard)
 A calm productivity MVP to anchor your tasks when the existential dread hits.
 
