@@ -17,25 +17,6 @@
 
 ---
 
-## stdout
-
-> *"The sea doesn't care about our design patterns. It just flows smoothly f s-skat."*
-
-- **builder** running from the coast of Casablanca
-- **philosophy:** minimal interface, practical execution, zero unnecessary noise.
-- **current stack state:** processing ideas into terminal tools and automation workflows.
-- **runtime state:** learning fast, shipping faster, drifting smoothly.
-
----
-
-## absurd endpoints
-
-> *"One must imagine d3f4lt happy pushing code into the void"*
-
-- [![Discord](https://img.shields.io/badge/Discord-d3f4lt0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1264846495555784736)
-
----
-
 ## selected work
 
 ### [quantum-stealth-kernel](https://github.com/d3f4lt0/quantum-stealth-kernel)
