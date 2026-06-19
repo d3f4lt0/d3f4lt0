@@ -13,6 +13,7 @@
 
 **void • code • automation • noise-reduction**
 
+> *"One must imagine d3f4lt happy pushing code into the void."*
 </div>
 
 ---
