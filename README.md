@@ -65,4 +65,7 @@ A micro-utility to strip out the extra noise from your data streams.
 
 ## stats
 
-
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=d3f4lt0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3f4lt0&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
