@@ -29,6 +29,24 @@ async dual-layer evasion engine — JA3/TLS cryptographic session impersonation 
 
 ---
 
+### [anti-bot-engine](https://github.com/d3f4lt0/anti-bot-engine)
+> *"if you know how the trap works, you know how to build one."*
+
+three-layer go middleware stack — atomic token bucket via lua/redis, burst entropy detection using request interval standard deviation, and silent honeypot trapping. engineered to catch what ip-blocking misses.
+
+`go` `redis` `lua` `middleware` `rate-limiting` `entropy`
+
+---
+
+### [fingerprint-audit](https://github.com/d3f4lt0/fingerprint-audit)
+> *"seeing yourself the way the system sees you."*
+
+vanilla js diagnostic suite that surfaces the exact browser telemetry akamai, cloudflare, and perimeterx collect — canvas hash entropy, webgl vendor fingerprinting, headless environment leaks, behavioral signal consistency. zero dependencies. runs in your browser.
+
+`javascript` `security` `browser-fingerprinting` `webgl` `canvas` `devtools`
+
+---
+
 ### [focusboard](https://github.com/d3f4lt0/focusboard)
 A calm productivity MVP to anchor your tasks when the existential dread hits.
 
