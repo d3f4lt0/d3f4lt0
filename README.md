@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN6N2c0cG92c3o4bzhyNnB3eW94dzh6Yzd3aWU5Zzd6dWFybjR5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dT6f2FnfY24C1L1TIR/giphy.gif" width="320" alt="aesthetic gif" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN6N2c0cG92c3o4bzhyNnB3eW94dzh6Yzd3aWU5Zzd6dWFybjR5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dT6f2FnfY24C1L1TIR/giphy.gif" width="250" alt="aesthetic gif" />
 
 # d3f4lt
 
