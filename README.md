@@ -69,6 +69,24 @@ vanilla js diagnostic suite surfacing the exact browser telemetry akamai, cloudf
 
 ---
 
+### [phantom-fetch](https://github.com/d3f4lt0/phantom-fetch)
+> *"fetch, but the server thinks you're human."*
+
+drop-in typescript replacement for node's fetch — routes requests through browser-accurate fingerprint profiles. ordered headers, realistic timing, tls session behavior. chrome, firefox, or safari. the gap between a bot and a browser is mostly in the details. this closes it.
+
+`typescript` `http` `fingerprinting` `stealth` `browser-profiles` `scraping`
+
+---
+
+### [crawlr](https://github.com/d3f4lt0/crawlr)
+> *"the web is a graph. most crawlers treat it like a list."*
+
+zero-dependency typescript crawler engine — min-heap priority queue, semaphore concurrency, per-domain rate scheduler, robots.txt caching, plugin system. fetch pages, extract links, save html, enforce limits. built from scratch because the existing options all carry too much weight.
+
+`typescript` `crawler` `web-spider` `queue` `concurrency` `plugin-system`
+
+---
+
 ## core dependencies
 
 - autonomous developer tools
